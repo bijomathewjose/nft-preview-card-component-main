@@ -13,7 +13,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/bijomathewjose/nft-preview-card-component-main)
+- Live Site URL: [Github Pages](https://bijomathewjose.github.io/nft-preview-card-component-main/)
 
 ## My process
 
